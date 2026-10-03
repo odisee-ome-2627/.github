@@ -13,8 +13,8 @@ single platform disappears.
 | | |
 |---|---|
 | Code | [Open-Metadata-Exchange](https://github.com/odisee-ome-2627/Open-Metadata-Exchange) (fork of ISKME's repository) |
-| Sprint board |  https://github.com/orgs/odisee-ome-2627/projects/3/views/2 |
-| Team documentation | https://gitlab.com/ikdoeict/vakken/opo_agile_team_project/projecten/2627/2627_atp_iskme/documentation |
+| Sprint board | [Sprint Board](https://github.com/orgs/odisee-ome-2627/projects/3/views/2) |
+| Team documentation |[Gitlab's documentation](https://gitlab.com/ikdoeict/vakken/opo_agile_team_project/projecten/2627/2627_atp_iskme/documentation) |
 
 ## Team
 
