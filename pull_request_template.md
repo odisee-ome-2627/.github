@@ -14,4 +14,4 @@ Closes #
 - [ ] No secrets, credentials or personal data committed
 - [ ] Documentation updated where needed
 - [ ] Manually tested by a team member other than the author
-- [ ] Reviewed and approved by at least one team member other than the author
+- [ ] Reviewed and approved by at least two team members other than the author
